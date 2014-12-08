@@ -1,9 +1,10 @@
 # Faust
 
 Github authorization.
-First things first: get key and secret from `https://github.com/settings/applications`.
-Set url to yours in applications tab of settings `http://your-url`.
-Start server and you ready to go.
+First things first: 
+- get key and secret from `https://github.com/settings/applications`
+- set url to yours in applications tab of settings `http://your-url`
+- start server and you ready to go
 
 ## Install
 
