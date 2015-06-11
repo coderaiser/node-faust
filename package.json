@@ -1,6 +1,6 @@
 {
   "name": "faust",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "github authorization",
   "main": "lib/faust.js",
   "dependencies": {
